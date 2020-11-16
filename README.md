@@ -8,7 +8,7 @@
    - [講義資料「条件付確率」](./01_cond_prob/cond_prob.pdf)
 3. 第3回 ベイズ推論とその簡単な例
    - [講義資料「ベイズ推論」](./02_bayes_infer/bayes_infer.pdf)
-   - [プログラム](./02_bayes_infer/bayes_infer.ipynb)
+   - [プログラム](./02_bayes_infer/prog_bayes_infer.ipynb)
    - [プログラム付録「matplotlibによるアニメーション」](./02_bayes_infer/howto_matplotlib_animation.ipynb)
 4. 第4回 ベイズ推論の応用例
    - [講義資料「簡単なテキスト解析」](./03_naive_bayes/naive_bayes.pdf)
