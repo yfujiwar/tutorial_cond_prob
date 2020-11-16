@@ -16,7 +16,7 @@
    - [プログラム付録「日本語文章の形態素解析:素人による入門」](./03_naive_bayes/howto_text-analysis_mecab.ipynb)
    - [データ](./03_naive_bayes/data)
 
-プログラムはPython3.7系で動作確認した．Jupyter notebook (*.ipynb)，それをhtml→pdfにしたもの(*.pdf)，python source code (*.py)をそれぞれ配布している．
+プログラムはPython3.7系で動作確認した．Jupyter notebook (\*.ipynb)，それをhtml→pdfにしたもの(*.pdf)，python source code (\*.py)をそれぞれ配布している．
 
 
 
